@@ -1,6 +1,4 @@
-git init
-git add .
-git commit -m "Initial commit"
+
 import streamlit as st
 import pandas as pd
 from src.data_pipeline import fetch_data, compute_returns
